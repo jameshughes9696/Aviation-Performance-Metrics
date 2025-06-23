@@ -1,0 +1,101 @@
+Aircraft_ID,Type,Mission_Status,Fault_Type,Repair_Start,Repair_End,Parts_Used,Base_Location,Technician_ID,Maintenance_Hours
+AC-001,Merlin HC4,Awaiting Parts,Landing Gear,2025-06-20,,"PR-697,PR-661,PR-264",Yeovilton,T-004,23
+AC-002,Wildcat,Ready,None,,,,Culdrose,,0
+AC-003,Sea King ASaC,In Repair,Avionics,2025-06-16,2025-06-18,"PR-357,PR-899,PR-907",Portsmouth,T-005,4
+AC-004,Sea King ASaC,Awaiting Parts,Electrical,2025-06-19,,"PR-496,PR-679,PR-816",Culdrose,T-011,12
+AC-005,Sea King ASaC,Awaiting Parts,Avionics,2025-06-18,,PR-675,Yeovilton,T-015,22
+AC-006,Merlin HC4,Ready,None,,,,Culdrose,,0
+AC-007,Wildcat,In Repair,Hydraulic,2025-06-19,2025-06-20,"PR-567,PR-273,PR-580",Portsmouth,T-005,24
+AC-008,Merlin Mk2,In Repair,Avionics,2025-06-13,2025-06-14,"PR-525,PR-935,PR-907",Culdrose,T-014,16
+AC-009,Wildcat,In Repair,Hydraulic,2025-06-20,2025-06-20,"PR-404,PR-856",Culdrose,T-008,14
+AC-010,Merlin Mk2,Ready,None,,,,Yeovilton,,0
+AC-011,Merlin Mk2,Ready,None,,,,Portsmouth,,0
+AC-012,Merlin Mk2,Ready,None,,,,Yeovilton,,0
+AC-013,Merlin HC4,Ready,None,,,,Yeovilton,,0
+AC-014,Merlin Mk2,In Repair,Avionics,2025-06-18,2025-06-19,"PR-802,PR-496,PR-417",Yeovilton,T-004,16
+AC-015,Sea King ASaC,Ready,None,,,,Portsmouth,,0
+AC-016,Merlin HC4,Awaiting Parts,Hydraulic,2025-06-21,,"PR-837,PR-856",Portsmouth,T-001,9
+AC-017,Wildcat,In Repair,Landing Gear,2025-06-14,2025-06-14,"PR-661,PR-489,PR-446",Portsmouth,T-020,25
+AC-018,Merlin Mk2,Ready,None,,,,Culdrose,,0
+AC-019,Merlin Mk2,In Repair,Landing Gear,2025-06-14,2025-06-15,PR-420,Yeovilton,T-009,40
+AC-020,Merlin HC4,Ready,None,,,,Portsmouth,,0
+AC-021,Merlin Mk2,In Repair,Hydraulic,2025-06-16,2025-06-17,"PR-156,PR-792,PR-384",Portsmouth,T-019,35
+AC-022,Merlin HC4,Ready,None,,,,Portsmouth,,0
+AC-023,Sea King ASaC,Awaiting Parts,Engine,2025-06-19,,"PR-752,PR-802,PR-661",Yeovilton,T-019,23
+AC-024,Merlin HC4,Ready,None,,,,Portsmouth,,0
+AC-025,Merlin Mk2,Ready,None,,,,Portsmouth,,0
+AC-026,Sea King ASaC,In Repair,Avionics,2025-06-18,2025-06-20,"PR-488,PR-913",Culdrose,T-014,10
+AC-027,Merlin Mk2,In Repair,Hydraulic,2025-06-14,2025-06-14,PR-464,Yeovilton,T-010,26
+AC-028,Merlin HC4,Awaiting Parts,Hydraulic,2025-06-21,,"PR-679,PR-936,PR-232",Culdrose,T-015,32
+AC-029,Merlin Mk2,Ready,None,,,,Culdrose,,0
+AC-030,Wildcat,Ready,None,,,,Yeovilton,,0
+AC-031,Merlin Mk2,Ready,None,,,,Culdrose,,0
+AC-032,Wildcat,Ready,None,,,,Yeovilton,,0
+AC-033,Merlin Mk2,Awaiting Parts,Hydraulic,2025-06-21,,"PR-645,PR-765,PR-777",Culdrose,T-004,42
+AC-034,Wildcat,In Repair,Hydraulic,2025-06-18,2025-06-18,PR-446,Portsmouth,T-006,15
+AC-035,Sea King ASaC,Awaiting Parts,Engine,2025-06-17,,PR-458,Portsmouth,T-005,6
+AC-036,Merlin Mk2,Ready,None,,,,Yeovilton,,0
+AC-037,Sea King ASaC,Ready,None,,,,Yeovilton,,0
+AC-038,Merlin Mk2,Ready,None,,,,Culdrose,,0
+AC-039,Merlin Mk2,Ready,None,,,,Portsmouth,,0
+AC-040,Wildcat,In Repair,Hydraulic,2025-06-16,2025-06-17,"PR-123,PR-221,PR-357",Yeovilton,T-016,42
+AC-041,Sea King ASaC,Ready,None,,,,Culdrose,,0
+AC-042,Merlin HC4,In Repair,Engine,2025-06-22,2025-06-23,"PR-156,PR-528",Culdrose,T-013,23
+AC-043,Merlin HC4,Awaiting Parts,Landing Gear,2025-06-16,,PR-317,Culdrose,T-014,14
+AC-044,Sea King ASaC,Ready,None,,,,Portsmouth,,0
+AC-045,Merlin Mk2,Awaiting Parts,Avionics,2025-06-14,,PR-578,Yeovilton,T-004,18
+AC-046,Merlin Mk2,Ready,None,,,,Culdrose,,0
+AC-047,Merlin Mk2,In Repair,Landing Gear,2025-06-19,2025-06-20,"PR-464,PR-145,PR-156",Culdrose,T-015,14
+AC-048,Merlin Mk2,Awaiting Parts,Avionics,2025-06-22,,PR-997,Portsmouth,T-008,8
+AC-049,Wildcat,In Repair,Landing Gear,2025-06-14,2025-06-14,"PR-580,PR-384",Yeovilton,T-011,26
+AC-050,Wildcat,Ready,None,,,,Portsmouth,,0
+AC-051,Wildcat,Ready,None,,,,Portsmouth,,0
+AC-052,Wildcat,Ready,None,,,,Yeovilton,,0
+AC-053,Merlin HC4,Ready,None,,,,Culdrose,,0
+AC-054,Sea King ASaC,In Repair,Engine,2025-06-19,2025-06-20,"PR-792,PR-626,PR-409",Portsmouth,T-016,42
+AC-055,Sea King ASaC,In Repair,Landing Gear,2025-06-18,2025-06-18,"PR-997,PR-750,PR-878",Portsmouth,T-004,9
+AC-056,Merlin HC4,Awaiting Parts,Electrical,2025-06-16,,"PR-165,PR-193,PR-126",Yeovilton,T-016,42
+AC-057,Wildcat,Ready,None,,,,Portsmouth,,0
+AC-058,Sea King ASaC,In Repair,Engine,2025-06-20,2025-06-21,PR-437,Yeovilton,T-008,4
+AC-059,Wildcat,Awaiting Parts,Avionics,2025-06-22,,"PR-528,PR-221",Yeovilton,T-020,33
+AC-060,Sea King ASaC,Ready,None,,,,Yeovilton,,0
+AC-061,Merlin Mk2,In Repair,Electrical,2025-06-17,2025-06-18,PR-221,Portsmouth,T-013,19
+AC-062,Wildcat,Ready,None,,,,Portsmouth,,0
+AC-063,Merlin Mk2,In Repair,Electrical,2025-06-13,2025-06-13,"PR-792,PR-106,PR-888",Yeovilton,T-007,45
+AC-064,Sea King ASaC,Ready,None,,,,Portsmouth,,0
+AC-065,Merlin HC4,Awaiting Parts,Landing Gear,2025-06-19,,"PR-243,PR-661",Culdrose,T-016,10
+AC-066,Wildcat,Ready,None,,,,Portsmouth,,0
+AC-067,Merlin HC4,Awaiting Parts,Electrical,2025-06-13,,"PR-752,PR-856",Portsmouth,T-007,43
+AC-068,Merlin HC4,Ready,None,,,,Portsmouth,,0
+AC-069,Wildcat,In Repair,Engine,2025-06-21,2025-06-21,"PR-409,PR-792,PR-349",Portsmouth,T-020,17
+AC-070,Wildcat,In Repair,Landing Gear,2025-06-15,2025-06-16,PR-791,Culdrose,T-001,46
+AC-071,Sea King ASaC,Ready,None,,,,Portsmouth,,0
+AC-072,Wildcat,Ready,None,,,,Culdrose,,0
+AC-073,Wildcat,Ready,None,,,,Yeovilton,,0
+AC-074,Merlin Mk2,In Repair,Avionics,2025-06-15,2025-06-16,"PR-489,PR-186,PR-126",Yeovilton,T-002,20
+AC-075,Wildcat,In Repair,Engine,2025-06-16,2025-06-18,"PR-907,PR-661,PR-243",Yeovilton,T-002,46
+AC-076,Merlin HC4,Ready,None,,,,Culdrose,,0
+AC-077,Sea King ASaC,In Repair,Electrical,2025-06-20,2025-06-21,"PR-936,PR-357",Culdrose,T-009,12
+AC-078,Merlin Mk2,In Repair,Landing Gear,2025-06-18,2025-06-19,PR-479,Culdrose,T-008,21
+AC-079,Merlin HC4,Ready,None,,,,Yeovilton,,0
+AC-080,Sea King ASaC,In Repair,Electrical,2025-06-14,2025-06-15,"PR-488,PR-899",Portsmouth,T-001,45
+AC-081,Sea King ASaC,Ready,None,,,,Portsmouth,,0
+AC-082,Wildcat,In Repair,Engine,2025-06-15,2025-06-16,PR-750,Yeovilton,T-016,16
+AC-083,Sea King ASaC,Awaiting Parts,Engine,2025-06-19,,"PR-437,PR-907",Culdrose,T-014,11
+AC-084,Merlin Mk2,Ready,None,,,,Yeovilton,,0
+AC-085,Wildcat,Ready,None,,,,Portsmouth,,0
+AC-086,Merlin Mk2,Awaiting Parts,Electrical,2025-06-20,,PR-869,Culdrose,T-012,34
+AC-087,Sea King ASaC,Ready,None,,,,Yeovilton,,0
+AC-088,Merlin Mk2,In Repair,Engine,2025-06-17,2025-06-17,PR-218,Portsmouth,T-012,43
+AC-089,Wildcat,In Repair,Hydraulic,2025-06-14,2025-06-15,"PR-935,PR-525,PR-156",Portsmouth,T-015,28
+AC-090,Wildcat,Ready,None,,,,Culdrose,,0
+AC-091,Merlin Mk2,In Repair,Avionics,2025-06-22,2025-06-23,"PR-567,PR-488,PR-816",Culdrose,T-013,15
+AC-092,Wildcat,Ready,None,,,,Yeovilton,,0
+AC-093,Merlin HC4,Ready,None,,,,Portsmouth,,0
+AC-094,Sea King ASaC,Ready,None,,,,Portsmouth,,0
+AC-095,Wildcat,Ready,None,,,,Culdrose,,0
+AC-096,Merlin Mk2,In Repair,Hydraulic,2025-06-21,2025-06-22,"PR-604,PR-464,PR-661",Culdrose,T-002,23
+AC-097,Sea King ASaC,Ready,None,,,,Yeovilton,,0
+AC-098,Merlin HC4,Ready,None,,,,Culdrose,,0
+AC-099,Wildcat,In Repair,Landing Gear,2025-06-14,2025-06-14,"PR-370,PR-106",Yeovilton,T-002,41
+AC-100,Merlin Mk2,Ready,None,,,,Culdrose,,0
