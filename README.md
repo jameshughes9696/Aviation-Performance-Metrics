@@ -28,7 +28,7 @@ This dashboard explores key metrics including:
 
 ## 🌐 View the Live Dashboard
 
-https://public.tableau.com/shared/9TX2CJ8HJ?:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/shared/9TX2CJ8HJ?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/AviationMetrics/FleetAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📂 Files in This Repo
 
